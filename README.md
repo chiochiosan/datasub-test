@@ -2,6 +2,8 @@
 
 ### `git clone https://github.com/chiochiosan/datasub-test.git`
 
+### `cd datasub-test`
+
 ### `npm install`
 
 ### `npm start`
